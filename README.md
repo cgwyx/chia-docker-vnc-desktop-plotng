@@ -37,6 +37,7 @@ VNC Web UI is available at ```http://IP_ADDRESS:8084``` after initializing conta
 
 <h2>Notes</h2>
 Chia version updated as of: 20-5-2021 (main branch)
+Plotng version 0.18 as of: 20-5-2021
 
 My second proper public docker image :). Feedback and assistance is greatly appreciated. 
 
