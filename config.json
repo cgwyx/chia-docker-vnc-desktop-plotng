@@ -1,0 +1,20 @@
+{
+  "Fingerprint": "",
+  "FarmerPublicKey": "",
+  "PoolPublicKey": "",
+  "Threads": 4,
+  "Buffers": 0,
+  "NumberOfParallelPlots": 6,
+  "TempDirectory": ["/plotting"],
+  "TargetDirectory": ["/plots"],
+  "StaggeringDelay": 5,
+  "ShowPlotLog": true,
+  "DiskSpaceCheck": true,
+  "DelaysBetweenPlot": 0,
+  "MaxActivePlotPerTarget": 0,
+  "DisableBitField": false,
+  "MaxActivePlotPerTemp": 3,
+  "MaxActivePlotPerPhase1": 4,
+  "UseTargetForTmp2": false,
+  "BucketSize": 0
+}
